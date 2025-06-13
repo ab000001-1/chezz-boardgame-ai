@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "#!/bin/bash" > a3
+echo "python3 chezz.py" >> a3  
+chmod +x a3  
+
